@@ -1,1 +1,0 @@
-A directory to contribute and organize all Codechef questions.
